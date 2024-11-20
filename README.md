@@ -1,7 +1,4 @@
-# ideation
-
-
-### Blockchain-Based Ideation and Collaboration Platform: Detailed Report
+# Blockchain-Based Ideation and Collaboration Platform: Detailed Report
 
 #### **Core Idea**
 This platform aims to revolutionize the ideation and brainstorming process by combining blockchain technology, artificial intelligence (AI), and advanced networking. 
